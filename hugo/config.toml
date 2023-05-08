@@ -4,7 +4,6 @@ defaultContentLanguage = "en"
 theme = "lynx" 
 
 title = "Kelston Spokes"
-# copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]

@@ -1,0 +1,24 @@
+baseURL = "https://kelston.net/"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "lynx" 
+
+title = "Kelston Spokes"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+name = "Kelston Spokes"
+headline = "IT Technician / Bristol, UK"
+image = "avatar.jpg"  # path relative to static directory
+
+  links = [
+    { github = "https://github.com/Kelston-Spokes" },
+    { linkedin = "https://www.linkedin.com/in/kelston-spokes-ba4a06259/" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
